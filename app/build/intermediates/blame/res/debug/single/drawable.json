@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveybuttonleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveybuttonleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveybuttonpressmiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveybuttonpressmiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/negativo.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/src/main/res/drawable/negativo.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbardivider.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbardivider.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconmp3store.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconmp3store.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogmiddleleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogmiddleleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarrightpress.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarrightpress.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogtopmid.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogtopmid.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveybuttonmiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveybuttonmiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconskip.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconskip.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_adchoices.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_adchoices.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarleftpress.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarleftpress.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_watermarkleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_watermarkleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarright.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarright.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogbutton.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogbutton.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconcall.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconcall.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconfacebook.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconfacebook.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogbottomright.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogbottomright.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveymiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveymiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogtopleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogtopleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconticket.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconticket.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconcalendar.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconcalendar.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_twittermiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_twittermiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveybuttonpressleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveybuttonpressleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_watermarkmiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_watermarkmiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarmiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarmiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconyoutube.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconyoutube.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_twitterlefttop.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_twitterlefttop.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_internalsurveyclose.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_internalsurveyclose.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogbottomleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogbottomleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconcoupon.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconcoupon.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_buttonbarmiddlepress.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_buttonbarmiddlepress.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_twitterleftbottom.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_twitterleftbottom.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconweb.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconweb.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogbottommiddle.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogbottommiddle.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogtopright.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogtopright.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_icondownload.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_icondownload.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_surveyleft.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_surveyleft.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogmiddleright.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogmiddleright.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_icontwitter.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_icontwitter.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_replaybig.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_replaybig.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconmap.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconmap.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_twitterright.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_twitterright.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_iconshare.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_iconshare.png"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/res/merged/debug/drawable/tremorvideo_dialogbuttonpress.png",
+        "source": "/Users/diego/Documents/proyecto_darriens/TremorVideo-Android-SDK/TremorVideoAndroidDemo/app/build/intermediates/exploded-aar/TremorVideoAndroidDemo/TremorVide/unspecified/res/drawable/tremorvideo_dialogbuttonpress.png"
+    }
+]

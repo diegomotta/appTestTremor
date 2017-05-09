@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Darriens App</string>
+    <string name="title_activity_preload">Cargar activity</string>
+    <string name="title_activity_show_back_to_back">Volver</string>
+</resources>
